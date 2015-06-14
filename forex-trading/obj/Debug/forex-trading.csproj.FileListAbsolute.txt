@@ -1,0 +1,5 @@
+c:\users\royraph\documents\visual studio 2012\Projects\forex-trading\forex-trading\bin\forex-trading.dll
+c:\users\royraph\documents\visual studio 2012\Projects\forex-trading\forex-trading\bin\forex-trading.pdb
+c:\users\royraph\documents\visual studio 2012\Projects\forex-trading\forex-trading\obj\Debug\forex-trading.csprojResolveAssemblyReference.cache
+c:\users\royraph\documents\visual studio 2012\Projects\forex-trading\forex-trading\obj\Debug\forex-trading.dll
+c:\users\royraph\documents\visual studio 2012\Projects\forex-trading\forex-trading\obj\Debug\forex-trading.pdb
